@@ -1,4 +1,6 @@
 a='rakesh singh1111 bhadoriya'
 print(a)
 
-print(1)
+b='new new new'
+
+print(b)
